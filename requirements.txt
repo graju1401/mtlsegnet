@@ -9,3 +9,4 @@ seaborn
 scikit-image
 streamlit
 opencv-python
+opencv-contirb-python
