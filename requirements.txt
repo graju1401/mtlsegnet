@@ -1,14 +1,14 @@
-matplotlib==3.3.4
-numpy==1.19.5
-opencv-python==4.5.5.64
-Pillow==8.4.0
-pretrainedmodels==0.7.4
-requests==2.27.1
-scikit-image==0.17.2
-scipy==1.5.4
-seaborn==0.11.2
-streamlit==1.10.0
-timm==0.5.4
-torch==1.10.2
-torchvision==0.11.3
+matplotlib
+numpy
+opencv-python
+Pillow
+requests
+scikit-image
+seaborn
+streamlit
+timm
+torch
+torchvision
+pretrainedmodels
+efficientnet_pytorch
 
