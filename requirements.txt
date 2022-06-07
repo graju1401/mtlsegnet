@@ -1,0 +1,11 @@
+torch
+torchvision
+pretrainedmodels
+efficientnet_pytorch
+timm
+numpy
+matplotlib
+seaborn
+scikit-image
+streamlit
+opencv-python
